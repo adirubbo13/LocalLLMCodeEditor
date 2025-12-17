@@ -1,0 +1,36 @@
+{
+  "name": "NarwhAI",
+  "version": "1.0.0",
+  "description": "Local AI-Powered Code Editor with Monaco and Ollama",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build-mac": "electron-builder --mac",
+    "build-win": "electron-builder --win"
+  },
+  "keywords": ["editor", "ai", "ollama", "monaco"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^27.0.0",
+    "electron-builder": "^24.6.4"
+  },
+  "dependencies": {
+    "monaco-editor": "^0.44.0"
+  },
+  "build": {
+    "appId": "com.local.aicodeeditor",
+    "productName": "NarwhAI",
+    "directories": {
+      "output": "dist"
+    },
+    "mac": {
+      "category": "public.app-category.developer-tools",
+      "icon": "build/icons/icon.icns"
+    },
+    "win": {
+      "target": "nsis",
+      "icon": "build/icons/icon.ico"
+    }
+  }
+}
