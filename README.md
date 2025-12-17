@@ -1,4 +1,7 @@
-# 🦄 NarwhAI - Local AI Code Editor
+_**Note from the author** - This project came about due to the sudden popularity and prowess of the DeepSeek LLM family. I have always been fascinated by web development and wanted to see if I could learn Electron by building a code editor which suits my workflow. This project was a great experience to learn about open source and local LLMs. Building NarwhAI taught me not just about Electron and Monaco Editor, but about the incredible ecosystem of open-source AI tools democratizing access to artificial intelligence. The narwhal theme is a playful nod to DeepSeek's whale mascot: because if they can have a whale, we can have a magical sea unicorn!_
+
+
+# NarwhAI - Local AI Code Editor
 
 <p align="center">
   <img src="./build/icons/icon.png" alt="NarwhAI Logo" width="128" height="128">
@@ -20,7 +23,7 @@
 - **🔒 100% Local & Private** - Your code never leaves your machine
 - **🤖 AI-Powered Assistance** - Generate, debug, and explain code using local LLMs
 - **📑 Multi-Tab Interface** - Work with multiple files simultaneously
-- **🎨 Claude-Inspired Design** - Clean, modern UI with beige/aqua/blue color scheme
+- **🎨 Simplistic Yet Functional UI** - Clean, modern UI with beige/aqua/blue color scheme
 - **🚀 Auto-Starts Ollama** - No manual terminal commands needed
 - **💾 Smart File Management** - Proper save/save-as functionality with visual indicators
 - **⚡ Monaco Editor** - Industry-standard code editor (same as VS Code)
