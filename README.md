@@ -182,8 +182,3 @@ NarwhAI is an independent project and is not affiliated with Ollama, Microsoft (
 
 For issues, questions, or suggestions, please open an issue on GitHub.
 
----
-
-<p align="center">
-  Made with 🦄 and local AI
-</p>
