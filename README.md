@@ -18,6 +18,11 @@ _**Note from the author** - This project came about due to the sudden popularity
   <img src="https://img.shields.io/badge/Platform-macOS%20|%20Windows-lightgrey" alt="Platform">
 </p>
 
+<p align="center">
+  <img src="./screenshot.png" alt="NarwhAI Editor Interface" width="800">
+</p>
+<p align="center"><em>Main editor interface with AI panel and multi-tab support</em></p>
+
 ## Features
 
 - **100% Local & Private** - Your code never leaves your machine
@@ -27,13 +32,6 @@ _**Note from the author** - This project came about due to the sudden popularity
 - **Auto-Starts Ollama** - No manual terminal commands needed
 - **Smart File Management** - Proper save/save-as functionality with visual indicators
 - **Monaco Editor** - Industry-standard code editor (same as VS Code)
-
-## 
-
-<p align="center">
-  <img src="./screenshot.png" alt="NarwhAI Editor Interface" width="800">
-</p>
-<p align="center"><em>Main editor interface with AI panel and multi-tab support</em></p>
 
 ## Quick Start
 
