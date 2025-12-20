@@ -18,24 +18,24 @@ _**Note from the author** - This project came about due to the sudden popularity
   <img src="https://img.shields.io/badge/Platform-macOS%20|%20Windows-lightgrey" alt="Platform">
 </p>
 
-## ✨ Features
+## Features
 
-- **🔒 100% Local & Private** - Your code never leaves your machine
-- **🤖 AI-Powered Assistance** - Generate, debug, and explain code using local LLMs
-- **📑 Multi-Tab Interface** - Work with multiple files simultaneously
-- **🎨 Simplistic Yet Functional UI** - Clean, modern UI with beige/aqua/blue color scheme
-- **🚀 Auto-Starts Ollama** - No manual terminal commands needed
-- **💾 Smart File Management** - Proper save/save-as functionality with visual indicators
-- **⚡ Monaco Editor** - Industry-standard code editor (same as VS Code)
+- **100% Local & Private** - Your code never leaves your machine
+- **AI-Powered Assistance** - Generate, debug, and explain code using local LLMs
+- **Multi-Tab Interface** - Work with multiple files simultaneously
+- **Simplistic Yet Functional UI** - Clean, modern UI with beige/aqua/blue color scheme
+- **Auto-Starts Ollama** - No manual terminal commands needed
+- **Smart File Management** - Proper save/save-as functionality with visual indicators
+- **Monaco Editor** - Industry-standard code editor (same as VS Code)
 
-## 📸 Screenshots
+## 
 
 <p align="center">
   <img src="./screenshot.png" alt="NarwhAI Editor Interface" width="800">
 </p>
 <p align="center"><em>Main editor interface with AI panel and multi-tab support</em></p>
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 
@@ -67,7 +67,7 @@ ollama pull llama3.2:3b          # Lightweight & fast
 ollama pull deepseek-r1:7b        # Advanced reasoning
 ```
 
-## ⌨️ Keyboard Shortcuts
+## Keyboard Shortcuts
 
 | Action | macOS | Windows/Linux |
 |--------|-------|---------------|
@@ -80,7 +80,7 @@ ollama pull deepseek-r1:7b        # Advanced reasoning
 | Debug Code | `⌘ D` | `Ctrl+D` |
 | Explain Selection | `⌘ E` | `Ctrl+E` |
 
-## 🎯 Features in Detail
+## Features in Detail
 
 ### AI Capabilities
 
@@ -99,7 +99,7 @@ ollama pull deepseek-r1:7b        # Advanced reasoning
 
 JavaScript, TypeScript, Python, HTML, CSS, JSON, Markdown, YAML, and more - full Monaco Editor language support.
 
-## 🔧 Configuration
+## Configuration
 
 ### Adding More Models
 
@@ -115,7 +115,7 @@ Edit `index.html` to add more Ollama models to the dropdown:
 </select>
 ```
 
-## 🏗️ Building for Distribution
+## Building for Distribution
 
 ### macOS
 ```bash
@@ -129,7 +129,7 @@ npm run build-win
 # Creates installer in dist/ folder
 ```
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 narwhai/
@@ -146,7 +146,7 @@ narwhai/
 └── node_modules/        # Dependencies (git-ignored)
 ```
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
@@ -156,11 +156,11 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - [Monaco Editor](https://microsoft.github.io/monaco-editor/) - The powerful code editor
 - [Electron](https://www.electronjs.org/) - Cross-platform desktop framework
@@ -168,11 +168,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [DeepSeek](https://www.deepseek.com/) - For the excellent coding models
 - Inspired by Claude's elegant design philosophy
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 NarwhAI is an independent project and is not affiliated with Ollama, Microsoft (Monaco), DeepSeek, or Anthropic. This is a community-driven, open-source tool that interfaces with these technologies.
 
-## 🐛 Known Issues
+## Known Issues
 
 - Ollama must be installed separately before first use
 - Some models require significant RAM (8GB+ recommended)
