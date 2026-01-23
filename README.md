@@ -176,7 +176,7 @@ NarwhAI is an independent project and is not affiliated with Ollama, Microsoft (
 - Some models require significant RAM (8GB+ recommended)
 - Auto-start of Ollama may fail if not in system PATH
 
-## 📮 Support
+## Support
 
 For issues, questions, or suggestions, please open an issue on GitHub.
 
